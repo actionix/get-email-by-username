@@ -13,12 +13,12 @@ Read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing
 There are many ways in which you can contribute to Actionix.
 
 #### 🐛 Report a bug
-Report all issues through GitHub Issues using the [Report a Bug](https://github.com/actionix/get-email-by-username/issues/new?labels=Bug&template=bug_report.yaml&title=Bug) template.
+Report all issues through GitHub Issues using the [Report a Bug](https://github.com/actionix/get-email-by-username/issues/new?template=bug_report.md&title=Bug) template.
 To help resolve your issue as quickly as possible, read the template and provide all the requested information.
 
 #### 🛠 File a feature request
 We welcome all feature requests, whether it's to add new functionality to an existing action or to offer an idea for a brand new one.
-Add your feature request through GitHub Issues using the [Feature Request](https://github.com/actionix/get-email-by-username/issues/new?labels=Enhancement&template=feature_request.yaml&title=Feature) template.
+Add your feature request through GitHub Issues using the [Feature Request](https://github.com/actionix/get-email-by-username/issues/new?template=feature_request.md&title=Feature) template.
 
 #### 📝 Others & documentation
 In the process of shipping features quickly, we may forget to keep our docs up to date. Or you have an other purpose. You can suggest other purposes to our project using [Other templates](https://github.com/actionix/get-email-by-username/issues/new/choose).
